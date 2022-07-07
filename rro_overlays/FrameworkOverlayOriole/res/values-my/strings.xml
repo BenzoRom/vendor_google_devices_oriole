@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">လက်ဗွေ အာရုံခံကိရိယာကို အသုံးပြု၍ မရပါ။ ပြုပြင်ရေး ဝန်ဆောင်မှုပေးသူ (သို့) g.co/pixel/fingerprintunlock သို့ သွားပါ</string>
+    <string name="fingerprint_recalibrate_notification_content">ပြုပြင်ရေး ဝန်ဆောင်မှုပေးသူ (သို့) g.co/pixel/fingerprintunlock သို့ သွားပါ</string>
+</resources>

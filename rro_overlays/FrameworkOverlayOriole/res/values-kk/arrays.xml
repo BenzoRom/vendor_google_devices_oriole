@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Саусағыңызды жылжытыңыз. Қайталап көріңіз.</item>
+        <item>Саусақ тіркеліп қойған, басқа саусақты пайдаланыңыз.</item>
+        <item>Сурет сапасы нашар. Қайталап көріңіз.</item>
+        <item></item>
+        <item>Сурет сапасы нашар. Қайталап көріңіз.</item>
+        <item></item>
+        <item></item>
+        <item>Дақ анықталды, экранды тазартыңыз. Қайталап көріңіз.</item>
+        <item>Сурет оқылмады. Қайталап көріңіз.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Деректер дұрыс емес. Қайталап көріңіз.</item>
+        <item>Саусақ тіркелмеді. Қайталап көріңіз.</item>
+    </string-array>
+</resources>

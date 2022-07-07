@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Nem lehet használni az ujjlenyomat-érzékelőt. Keresse fel a szervizt vagy a g.co/pixel/fingerprintunlock oldalt.</string>
+    <string name="fingerprint_recalibrate_notification_content">Keresse fel a szervizt vagy a g.co/pixel/fingerprintunlock oldalt</string>
+</resources>

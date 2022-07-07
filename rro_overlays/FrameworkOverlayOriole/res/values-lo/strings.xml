@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">ບໍ່ສາມາດໃຊ້ເຊັນ​ເຊີລາຍນິ້ວ​ມືໄດ້. ກະລຸນາໄປຫາຜູ້ໃຫ້ບໍລິການສ້ອມແປງ ຫຼື g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">ກະລຸນາໄປຫາຜູ້ໃຫ້ບໍລິການສ້ອມແປງ ຫຼື g.co/pixel/fingerprintunlock</string>
+</resources>

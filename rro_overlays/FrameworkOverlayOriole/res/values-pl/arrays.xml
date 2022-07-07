@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Przesuń palec. Spróbuj ponownie.</item>
+        <item>Już zarejestrowano ten palec, użyj innego.</item>
+        <item>Niska jakość obrazu. Spróbuj ponownie.</item>
+        <item></item>
+        <item>Niska jakość obrazu. Spróbuj ponownie.</item>
+        <item></item>
+        <item></item>
+        <item>Wykryto smugi, wyczyść ekran. Spróbuj ponownie.</item>
+        <item>Nie udało się odczytać zdjęcia. Spróbuj ponownie.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Złe dane. Spróbuj ponownie.</item>
+        <item>Nie udało się zarejestrować palca. Spróbuj ponownie.</item>
+    </string-array>
+</resources>

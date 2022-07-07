@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Mou el dit. Torna-ho a provar.</item>
+        <item>"L'empremta digital ja s'ha registrat amb un altre dit."</item>
+        <item>La qualitat de la imatge és deficient. Torna-ho a provar.</item>
+        <item></item>
+        <item>La qualitat de la imatge és deficient. Torna-ho a provar.</item>
+        <item></item>
+        <item></item>
+        <item>"S'ha detectat una taca; neteja la pantalla. Torna-ho a provar."</item>
+        <item>"No s'ha pogut llegir la imatge. Torna-ho a provar."</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Les dades són incorrectes. Torna-ho a provar.</item>
+        <item>"No s'ha pogut registrar el dit. Torna-ho a provar."</item>
+    </string-array>
+</resources>

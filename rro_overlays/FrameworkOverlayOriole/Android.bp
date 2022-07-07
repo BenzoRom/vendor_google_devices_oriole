@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "FrameworkOverlayOriole",
+    product_specific: true,
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Pajudinkite pirštą. Bandykite dar kartą.</item>
+        <item>Pirštas jau užregistruotas, atlikite tai kitu pirštu.</item>
+        <item>Prasta vaizdo kokybė. Bandykite dar kartą.</item>
+        <item></item>
+        <item>Prasta vaizdo kokybė. Bandykite dar kartą.</item>
+        <item></item>
+        <item></item>
+        <item>Aptikta dėmių, nuvalykite ekraną. Bandykite dar kartą.</item>
+        <item>Nepavyko nuskaityti vaizdo. Bandykite dar kartą.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Netinkami duomenys. Bandykite dar kartą.</item>
+        <item>Nepavyko užregistruoti piršto. Bandykite dar kartą.</item>
+    </string-array>
+</resources>

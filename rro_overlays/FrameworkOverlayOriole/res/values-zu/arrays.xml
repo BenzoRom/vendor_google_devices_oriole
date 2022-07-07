@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Hambisa umunwe wakho. Zama futhi.</item>
+        <item>Umunwe usubhalisiwe kakade, sebenzisa umunwe ohlukile.</item>
+        <item>Ikhwalithi yesithombe embi. Zama futhi.</item>
+        <item></item>
+        <item>Ikhwalithi yesithombe embi. Zama futhi.</item>
+        <item></item>
+        <item></item>
+        <item>I-Smudge itholiwe, hlanza isikrini. Zama futhi.</item>
+        <item>Yehlulekile ukufunda isithombe. Zama futhi.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Idatha embi. Zama futhi.</item>
+        <item>Yehlulekile ukubhalisa umunwe. Zama futhi.</item>
+    </string-array>
+</resources>

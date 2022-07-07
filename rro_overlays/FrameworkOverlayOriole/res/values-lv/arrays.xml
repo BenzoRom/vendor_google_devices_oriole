@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Pārvietojiet pirkstu. Mēģiniet vēlreiz.</item>
+        <item>Pirksts jau ir reģistrēts. Izmantojiet citu pirkstu.</item>
+        <item>Slikta attēla kvalitāte. Mēģiniet vēlreiz.</item>
+        <item></item>
+        <item>Slikta attēla kvalitāte. Mēģiniet vēlreiz.</item>
+        <item></item>
+        <item></item>
+        <item>Konstatēts traips — notīriet ekrānu. Mēģiniet vēlreiz.</item>
+        <item>Neizdevās nolasīt attēlu. Mēģiniet vēlreiz.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Dati nav derīgi. Mēģiniet vēlreiz.</item>
+        <item>Neizdevās reģistrēt pirkstu. Mēģiniet vēlreiz.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">指紋認証センサーを使用できません。修理業者に問い合わせるか、g.co/pixel/fingerprintunlock にアクセスしてください</string>
+    <string name="fingerprint_recalibrate_notification_content">修理業者に調整を依頼するか、g.co/pixel/fingerprintunlock にアクセスしてください</string>
+</resources>

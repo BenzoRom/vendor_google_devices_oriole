@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "TeleServiceOverlayOriole",
+    product_specific: true,
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>រំកិលម្រាមដៃ​របស់អ្នក។ សូមព្យាយាមម្ដងទៀត។</item>
+        <item>បានបញ្ចូល​ម្រាមដៃរួចហើយ សូមប្រើ​ម្រាមដៃផ្សេង។</item>
+        <item>គុណភាព​រូបភាព​អន់។ សូមព្យាយាមម្ដងទៀត។</item>
+        <item></item>
+        <item>គុណភាព​រូបភាព​អន់។ សូមព្យាយាមម្ដងទៀត។</item>
+        <item></item>
+        <item></item>
+        <item>បានរកឃើញ​ស្នាមប្រឡាក់ សូមសម្អាតអេក្រង់។ សូមព្យាយាមម្ដងទៀត។</item>
+        <item>មិនអាចអាន​រូបភាពបានទេ។ សូមព្យាយាមម្ដងទៀត។</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>ទិន្នន័យអន់។ សូមព្យាយាមម្ដងទៀត។</item>
+        <item>មិនអាច​បញ្ចូលម្រាមដៃបានទេ។ សូមព្យាយាមម្ដងទៀត។</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">ඇඟිලි සලකුණු සංවේදකය භාවිත කළ නොහැකිය. අලුත්වැඩියා සැපයුම්කරු හෝ g.co/pixel/fingerprintunlock වෙත පිවිසෙන්න</string>
+    <string name="fingerprint_recalibrate_notification_content">අලුත්වැඩියා සැපයුම්කරු හෝ g.co/pixel/fingerprintunlock වෙත පිවිසෙන්න</string>
+</resources>

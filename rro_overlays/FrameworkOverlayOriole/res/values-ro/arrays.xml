@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Mișcați degetul. Încercați din nou.</item>
+        <item>Degetul a fost deja înregistrat. Folosiți alt deget.</item>
+        <item>Calitate slabă a imaginii. Încercați din nou.</item>
+        <item></item>
+        <item>Calitate slabă a imaginii. Încercați din nou.</item>
+        <item></item>
+        <item></item>
+        <item>S-a detectat o pată. Curățați ecranul. Încercați din nou.</item>
+        <item>Nu se poate citi imaginea. Încercați din nou.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Date greșite. Încercați din nou.</item>
+        <item>Nu s-a putut înregistra degetul. Încercați din nou.</item>
+    </string-array>
+</resources>

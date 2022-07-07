@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Move o dedo. Téntao de novo.</item>
+        <item>Ese dedo xa está rexistrado; usa outro.</item>
+        <item>A imaxe ten mala calidade. Téntao de novo.</item>
+        <item></item>
+        <item>A imaxe ten mala calidade. Téntao de novo.</item>
+        <item></item>
+        <item></item>
+        <item>Detectouse unha mancha; limpa a pantalla. Téntao de novo.</item>
+        <item>Produciuse un erro ao ler a imaxe. Téntao de novo.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Os datos son incorrectos. Téntao de novo.</item>
+        <item>Produciuse un erro ao rexistrar o dedo. Téntao de novo.</item>
+    </string-array>
+</resources>

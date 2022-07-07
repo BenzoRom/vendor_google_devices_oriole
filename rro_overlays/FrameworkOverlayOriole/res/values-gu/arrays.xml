@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>તમારી આંગળી ખસેડો. ફરી પ્રયાસ કરો.</item>
+        <item>આંગળીની નોંધણી પહેલેથી થયેલી છે, કોઈ બીજી આંગળીનો ઉપયોગ કરો.</item>
+        <item>છબીની નબળી ક્વૉલિટી. ફરી પ્રયાસ કરો.</item>
+        <item></item>
+        <item>છબીની નબળી ક્વૉલિટી. ફરી પ્રયાસ કરો.</item>
+        <item></item>
+        <item></item>
+        <item>ડાઘ જોવા મળ્યો, સ્ક્રીન સાફ કરો. ફરી પ્રયાસ કરો.</item>
+        <item>છબી વાંચવામાં નિષ્ફળ થયાં. ફરી પ્રયાસ કરો.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>ખરાબ ડેટા. ફરી પ્રયાસ કરો.</item>
+        <item>આંગળીની નોંધણી કરવામાં નિષ્ફળ થયાં. ફરી પ્રયાસ કરો.</item>
+    </string-array>
+</resources>

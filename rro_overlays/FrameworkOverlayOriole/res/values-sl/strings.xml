@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Tipala prstnih odtisov ni mogoče uporabiti. Obiščite ponudnika popravil ali spletno stran g.co/pixel/fingerprintunlock.</string>
+    <string name="fingerprint_recalibrate_notification_content">Obiščite ponudnika popravil ali spletno stran g.co/pixel/fingerprintunlock.</string>
+</resources>

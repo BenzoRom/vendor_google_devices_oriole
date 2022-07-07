@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>உங்கள் விரலை நகர்த்தவும். மீண்டும் முயலவும்.</item>
+        <item>இந்த விரல் ஏற்கெனவே பதிவுசெய்யப்பட்டுள்ளது. வேறொரு விரலைப் பயன்படுத்தவும்.</item>
+        <item>படத்தின் தரம் மோசமாக உள்ளது. மீண்டும் முயலவும்.</item>
+        <item></item>
+        <item>படத்தின் தரம் மோசமாக உள்ளது. மீண்டும் முயலவும்.</item>
+        <item></item>
+        <item></item>
+        <item>அழுக்கு உள்ளது, திரையைச் சுத்தம் செய்யவும். மீண்டும் முயலவும்.</item>
+        <item>படத்தைக் கண்டறிய முடியவில்லை. மீண்டும் முயலவும்.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>மோசமான தரவு. மீண்டும் முயலவும்.</item>
+        <item>விரலைப் பதிவுசெய்ய முடியவில்லை. மீண்டும் முயலவும்.</item>
+    </string-array>
+</resources>

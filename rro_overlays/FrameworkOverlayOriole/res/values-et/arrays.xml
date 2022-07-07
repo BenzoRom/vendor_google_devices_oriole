@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Liigutage sõrme. Proovige uuesti.</item>
+        <item>See sõrmejälg on juba registreeritud, kasutage teist sõrme.</item>
+        <item>Kehv pildikvaliteet. Proovige uuesti.</item>
+        <item></item>
+        <item>Kehv pildikvaliteet. Proovige uuesti.</item>
+        <item></item>
+        <item></item>
+        <item>Ekraan on määrdunud, puhastage seda. Proovige uuesti.</item>
+        <item>Pilti ei õnnestunud lugeda. Proovige uuesti.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Halvad andmed. Proovige uuesti.</item>
+        <item>Sõrmejälje registreerimine ebaõnnestus. Proovige uuesti.</item>
+    </string-array>
+</resources>

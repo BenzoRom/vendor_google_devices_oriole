@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Переместите палец и повторите попытку.</item>
+        <item>Отпечаток пальца уже зарегистрирован. Используйте другой.</item>
+        <item>Низкое качество изображения. Повторите попытку.</item>
+        <item></item>
+        <item>Низкое качество изображения. Повторите попытку.</item>
+        <item></item>
+        <item></item>
+        <item>Обнаружено загрязнение. Очистите экран и повторите попытку.</item>
+        <item>Не удалось прочитать изображение. Повторите попытку.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Неверные данные. Повторите попытку.</item>
+        <item>Не удалось зарегистрировать отпечаток пальца. Повторите попытку.</item>
+    </string-array>
+</resources>

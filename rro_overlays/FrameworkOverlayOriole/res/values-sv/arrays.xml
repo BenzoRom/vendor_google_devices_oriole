@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Flytta fingret. Försök igen.</item>
+        <item>Fingeravtrycket har redan registrerats. Använd ett annat finger.</item>
+        <item>Dålig bildkvalitet. Försök igen.</item>
+        <item></item>
+        <item>Dålig bildkvalitet. Försök igen.</item>
+        <item></item>
+        <item></item>
+        <item>En fläck upptäcktes. Rengör skärmen. Försök igen.</item>
+        <item>Bilden kunde inte läsas. Försök igen.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Ogiltig data. Försök igen.</item>
+        <item>Det gick inte att registrera fingeravtrycket. Försök igen.</item>
+    </string-array>
+</resources>

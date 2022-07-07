@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Sogeza kidole chako. Jaribu tena.</item>
+        <item>Tayari kidole hiki kimeandikishwa, tumia kidole tofauti.</item>
+        <item>Ubora duni wa picha. Jaribu tena.</item>
+        <item></item>
+        <item>Ubora duni wa picha. Jaribu tena.</item>
+        <item></item>
+        <item></item>
+        <item>Imetambua doa, safisha skrini. Jaribu tena.</item>
+        <item>Imeshindwa kusoma picha. Jaribu tena.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Data duni. Jaribu tena.</item>
+        <item>Imeshindwa kuandikisha kidole. Jaribu tena.</item>
+    </string-array>
+</resources>

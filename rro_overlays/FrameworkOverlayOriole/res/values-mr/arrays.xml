@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>तुमचे बोट हलवा. पुन्हा प्रयत्न करा.</item>
+        <item>बोट आधीच नोंदवलेले आहे, दुसरे बोट वापरून पहा.</item>
+        <item>इमेजची गुणवत्ता कमी आहे. पुन्हा प्रयत्न करा.</item>
+        <item></item>
+        <item>इमेजची गुणवत्ता कमी आहे. पुन्हा प्रयत्न करा.</item>
+        <item></item>
+        <item></item>
+        <item>डाग आढळले, स्क्रीन साफ करा. पुन्हा प्रयत्न करा.</item>
+        <item>इमेज वाचता आली नाही. पुन्हा प्रयत्न करा.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>खराब डेटा. पुन्हा प्रयत्न करा.</item>
+        <item>बोट नोंदवता आले नाही. पुन्हा प्रयत्न करा.</item>
+    </string-array>
+</resources>

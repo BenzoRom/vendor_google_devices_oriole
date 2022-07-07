@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>გაამოძრავეთ თითი. ცადეთ ხელახლა.</item>
+        <item>ეს თითი უკვე რეგისტრირებულია, ცადეთ სხვა თითით.</item>
+        <item>სურათის ხარისხი დაბალია. ცადეთ ხელახლა.</item>
+        <item></item>
+        <item>სურათის ხარისხი დაბალია. ცადეთ ხელახლა.</item>
+        <item></item>
+        <item></item>
+        <item>აღმოჩენილია ლაქა, გაწმინდეთ ეკრანი. ცადეთ ხელახლა.</item>
+        <item>სურათის წაკითხვა ვერ მოხერხდა. ცადეთ ხელახლა.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>მონაცემები არასწორია. ცადეთ ხელახლა.</item>
+        <item>თითის რეგისტრირება ვერ მოხერხდა. ცადეთ ხელახლა.</item>
+    </string-array>
+</resources>

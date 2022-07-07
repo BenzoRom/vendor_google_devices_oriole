@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Ezin da erabili hatz-marken sentsorea. Jarri harremanetan konponketak egiten dituen hornitzaile batekin edo joan g.co/pixel/fingerprintunlock helbidera.</string>
+    <string name="fingerprint_recalibrate_notification_content">Jarri harremanetan konponketak egiten dituen hornitzaile batekin edo joan g.co/pixel/fingerprintunlock helbidera</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Ne možete da koristite senzor za otisak prsta. Posetite dobavljača za popravke ili g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Posetite dobavljača za popravke ili g.co/pixel/fingerprintunlock</string>
+</resources>

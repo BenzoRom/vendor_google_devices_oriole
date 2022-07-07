@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Поместете го прстот. Обидете се повторно.</item>
+        <item>Прстот веќе е регистриран. Користете друг прст.</item>
+        <item>Слаб квалитет на слика. Обидете се повторно.</item>
+        <item></item>
+        <item>Слаб квалитет на слика. Обидете се повторно.</item>
+        <item></item>
+        <item></item>
+        <item>Има дамка на екранот, исчистете го. Обидете се повторно.</item>
+        <item>Не можеше да се прочита сликата. Обидете се повторно.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Лоши податоци. Обидете се повторно.</item>
+        <item>Не успеа регистрацијата на прстот. Обидете се повторно.</item>
+    </string-array>
+</resources>

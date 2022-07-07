@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_burnInProtectionMinHorizontalOffset">-8</integer>
+    <integer name="config_burnInProtectionMaxHorizontalOffset">8</integer>
+    <integer name="config_burnInProtectionMinVerticalOffset">-8</integer>
+    <integer name="config_burnInProtectionMaxVerticalOffset">-4</integer>
+    <integer name="config_burnInProtectionMaxRadius">6</integer>
+</resources>

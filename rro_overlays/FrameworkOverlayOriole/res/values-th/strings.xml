@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">ใช้เซ็นเซอร์ลายนิ้วมือไม่ได้ โปรดติดต่อผู้ให้บริการซ่อมหรือไปที่ g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">โปรดติดต่อผู้ให้บริการซ่อมหรือไปที่ g.co/pixel/fingerprintunlock</string>
+</resources>

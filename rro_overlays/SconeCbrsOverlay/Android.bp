@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "SconeCbrsOverlay",
+    theme: "SconeCbrsOverlay",
+    product_specific: true,
+}

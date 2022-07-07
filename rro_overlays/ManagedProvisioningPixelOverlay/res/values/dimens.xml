@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sud_items_icon_size">24dp</dimen>
+    <dimen name="sud_items_margin_inbetween">56dp</dimen>
+    <dimen name="sud_items_margin_top">48dp</dimen>
+    <dimen name="sud_items_summary_margin_start">0dp</dimen>
+    <dimen name="sud_items_summary_margin_top">24dp</dimen>
+    <dimen name="terms_disclaimer_content_margin_bottom">24dp</dimen>
+    <dimen name="terms_disclaimer_content_margin_top">16dp</dimen>
+    <dimen name="terms_disclaimer_header_vertical_margin">24dp</dimen>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">கைரேகை சென்சாரைப் பயன்படுத்த முடியவில்லை. பழுதுபார்ப்புச் சேவை வழங்குநரைத் தொடர்புகொள்ளவும் அல்லது g.co/pixel/fingerprintunlock இணைப்பிற்குச் செல்லவும்</string>
+    <string name="fingerprint_recalibrate_notification_content">பழுதுபார்ப்புச் சேவை வழங்குநரைத் தொடர்புகொள்ளவும் அல்லது g.co/pixel/fingerprintunlock இணைப்பிற்குச் செல்லவும்</string>
+</resources>

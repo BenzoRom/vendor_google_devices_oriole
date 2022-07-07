@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Տեղաշարժեք մատը և նորից փորձեք։</item>
+        <item>Մատնահետքն արդեն գրանցված է։ Օգտագործեք մեկ ուրիշ մատ։</item>
+        <item>Պատկերի որակը ցածր է։ Նորից փորձեք։</item>
+        <item></item>
+        <item>Պատկերի որակը ցածր է։ Նորից փորձեք։</item>
+        <item></item>
+        <item></item>
+        <item>Էկրանը կեղտոտ է։ Մաքրեք այն և նորից փորձեք։</item>
+        <item>Չհաջողվեց ընթերցել պատկերը։ Նորից փորձեք։</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Տվյալները սխալ են։ Նորից փորձեք։</item>
+        <item>Չհաջողվեց գրանցել մատնահետքը։ Նորից փորձեք։</item>
+    </string-array>
+</resources>

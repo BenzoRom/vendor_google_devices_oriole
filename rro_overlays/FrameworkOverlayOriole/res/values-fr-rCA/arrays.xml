@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Déplacez votre doigt. Réessayez.</item>
+        <item>Doigt déjà enregistré, utilisez un autre doigt.</item>
+        <item>"Mauvaise qualité d'image. Réessayez."</item>
+        <item></item>
+        <item>"Mauvaise qualité d'image. Réessayez."</item>
+        <item></item>
+        <item></item>
+        <item>"Taches détectées, nettoyez l'écran. Réessayez."</item>
+        <item>"Impossible de lire l'image. Réessayez."</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Données erronées. Réessayez.</item>
+        <item>"Impossible d'enregistrer le doigt. Réessayez."</item>
+    </string-array>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Перемістіть палець. Повторіть спробу.</item>
+        <item>Відбиток цього пальця вже зареєстрований. Спробуйте інший.</item>
+        <item>Погана якість зображення. Повторіть спробу.</item>
+        <item></item>
+        <item>Погана якість зображення. Повторіть спробу.</item>
+        <item></item>
+        <item></item>
+        <item>Виявлено забруднення, очистьте екран. Повторіть спробу.</item>
+        <item>Не вдалося прочитати зображення. Повторіть спробу.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Неправильні дані. Повторіть спробу.</item>
+        <item>Не вдалося зареєструвати відбиток пальця. Повторіть спробу.</item>
+    </string-array>
+</resources>

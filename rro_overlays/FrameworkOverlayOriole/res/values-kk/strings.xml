@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Саусақ ізін оқу сканерін пайдалану мүмкін емес. Жөндеу қызметіне жүгініңіз немесе g.co/pixel/fingerprintunlock сілтемесіне өтіңіз.</string>
+    <string name="fingerprint_recalibrate_notification_content">Жөндеу қызметіне жүгініңіз немесе g.co/pixel/fingerprintunlock сілтемесіне өтіңіз.</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Mueve el dedo. Vuelve a intentarlo.</item>
+        <item>Ya se registró la huella. Usa otro dedo.</item>
+        <item>La imagen es de mala calidad. Vuelve a intentarlo.</item>
+        <item></item>
+        <item>La imagen es de mala calidad. Vuelve a intentarlo.</item>
+        <item></item>
+        <item></item>
+        <item>Se detectó una mancha. Limpia la pantalla y vuelve a intentarlo.</item>
+        <item>No se pudo leer la imagen. Vuelve a intentarlo.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Datos erróneos. Vuelve a intentarlo.</item>
+        <item>No se pudo inscribir la huella. Vuelve a intentarlo.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "PixelSetupWizardOrioleOverlay",
+    product_specific: true,
+}

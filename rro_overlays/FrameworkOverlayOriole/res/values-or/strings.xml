@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">ଟିପଚିହ୍ନ ସେନ୍ସରକୁ ବ୍ୟବହାର କରାଯାଇପାରିବ ନାହିଁ। ଏକ ମରାମତି କେନ୍ଦ୍ର କିମ୍ବା g.co/pixel/fingerprintunlockକୁ ଭିଜିଟ୍ କରନ୍ତୁ</string>
+    <string name="fingerprint_recalibrate_notification_content">ଏକ ମରାମତି କେନ୍ଦ୍ର କିମ୍ବା g.co/pixel/fingerprintunlockକୁ ଭିଜିଟ୍ କରନ୍ତୁ</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Lëviz gishtin. Provo përsëri.</item>
+        <item>Gishti është i regjistruar, përdor një gisht tjetër.</item>
+        <item>Cilësi e dobët imazhi. Provo përsëri.</item>
+        <item></item>
+        <item>Cilësi e dobët imazhi. Provo përsëri.</item>
+        <item></item>
+        <item></item>
+        <item>U zbulua njollë, pastro ekranin. Provo përsëri.</item>
+        <item>Imazhi nuk mund të lexohej. Provo përsëri.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Të dhëna të pavlefshme. Provo përsëri.</item>
+        <item>Gishti nuk mund të regjistrohej. Provo përsëri.</item>
+    </string-array>
+</resources>

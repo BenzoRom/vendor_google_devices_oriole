@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">"Impossible d'utiliser le capteur d'empreintes digitales. Consultez un fournisseur de services de réparation ou visitez la page g.co/pixel/fingerprintunlock"</string>
+    <string name="fingerprint_recalibrate_notification_content">Consultez un fournisseur de services de réparation ou visitez la page g.co/pixel/fingerprintunlock</string>
+</resources>
