@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Deblocare cu amprenta + Parolă</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Deblocare cu amprenta + Model</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Deblocare cu amprenta + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Continuați fără Deblocare cu amprenta</string>
+    <string name="fingerprint_unlock_title">Cu Deblocarea cu amprenta, puteți debloca telefonul folosind amprenta. Din motive de securitate, această opțiune necesită o blocare a ecranului de rezervă.</string>
+    <string name="lock_settings_picker_fingerprint_message">Alegeți o blocare de rezervă a ecranului pentru a o folosi cu Deblocarea cu amprenta</string>
+    <string name="security_settings_fingerprint_bad_calibration">Nu se poate folosi senzorul de amprentă. Vizitați un furnizor de servicii de reparații sau accesați g.co/pixel/fingerprintunlock</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Permiteți Deblocarea cu amprenta</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Configurați Deblocarea cu amprenta</string>
+    <string name="security_settings_fingerprint_preference_title">Deblocarea cu amprenta</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Deblocarea cu amprenta creează un model unic al amprentei dvs. pentru a vă confirma identitatea. Pentru a crea acest model de amprentă, în timpul configurării veți captura imagini ale amprentei dvs. din diferite poziții.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Când folosiți Deblocarea cu amprenta, imaginile sunt folosite pentru a vă actualiza modelul de amprentă. Imaginile amprentelor și modelul de amprentă sunt stocate în siguranță pe telefon și nu îl părăsesc niciodată. Toată procesarea are loc în siguranță pe telefonul dvs.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Puteți să ștergeți imaginile amprentelor și modelul de amprentă sau să dezactivați Deblocarea cu amprenta oricând din Setări. Imaginile amprentelor și modelul de amprentă sunt stocate pe telefon până când le ștergeți.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Deblocarea cu amprenta creează un model unic al amprentei copilului dvs. pentru a-i confirma identitatea. Pentru a crea acest model de amprentă în timpul configurării, va captura imagini ale amprentei sale din diferite poziții.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Când folosește Deblocarea cu amprenta, imaginile sunt folosite pentru a-i actualiza modelul de amprentă. Imaginile amprentelor și modelul de amprentă ale copilului dvs. sunt stocate în siguranță pe telefon și nu îl părăsesc niciodată. Toată procesarea are loc în siguranță pe telefon.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Dvs. și copilul dvs. puteți să ștergeți imaginile amprentelor și modelul de amprentă sau să dezactivați Deblocarea cu amprenta oricând din Setări. Imaginile amprentelor și modelele de amprentă sunt stocate pe telefon până când le ștergeți.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Deblocare cu amprenta pentru serviciu</string>
+    <string name="suggested_fingerprint_lock_settings_title">Folosiți Deblocarea cu amprenta</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"O parolă vă protejează telefonul dacă este pierdut sau furat.
+
+Această funcție șterge imaginile și modelul cu amprentă stocate pe dispozitiv. În plus, modelul facial va fi șters definitiv și în siguranță. Nu veți putea să folosiți fața sau amprenta pentru autentificare în aplicații."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"O parolă vă protejează telefonul dacă este pierdut sau furat.
+
+În plus, această funcție șterge imaginile și modelul cu amprentă stocate pe dispozitiv. Nu veți putea să vă folosiți amprenta pentru autentificare în aplicații."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Un model vă protejează telefonul dacă este pierdut sau furat.
+
+Această funcție șterge imaginile și modelul cu amprentă stocate pe dispozitiv. În plus, modelul facial va fi șters definitiv și în siguranță. Nu veți putea să folosiți fața sau amprenta pentru autentificare în aplicații."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Un model vă protejează telefonul dacă este pierdut sau furat.
+
+În plus, această funcție șterge imaginile și modelul cu amprentă stocate pe dispozitiv. Nu veți putea să vă folosiți amprenta pentru autentificare în aplicații."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"Un PIN vă protejează telefonul dacă este pierdut sau furat.
+
+Această funcție șterge imaginile și modelul cu amprentă stocate pe dispozitiv. În plus, modelul facial va fi șters definitiv și în siguranță. Nu veți putea să folosiți fața sau amprenta pentru autentificare în aplicații."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Un PIN vă protejează telefonul dacă este pierdut sau furat.
+
+În plus, această funcție șterge imaginile și modelul cu amprentă stocate pe dispozitiv. Nu veți putea să vă folosiți amprenta pentru autentificare în aplicații."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Funcțiile de protecție a dispozitivului nu vor funcționa fără blocarea ecranului.
+
+Această funcție șterge imaginile și modelul cu amprentă stocate pe dispozitiv. În plus, modelul facial va fi șters definitiv și în siguranță. Nu veți putea să folosiți fața sau amprenta pentru autentificare în aplicații."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Funcțiile de protecție a dispozitivului nu vor funcționa fără blocarea ecranului.
+
+În plus, această funcție șterge imaginile și modelul cu amprentă stocate pe dispozitiv. Nu veți putea să vă folosiți amprenta pentru autentificare în aplicații."</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">వేలిముద్ర సెన్సార్‌ను ఉపయోగించడం సాధ్యం కాదు. రిపెయిర్ ప్రొవైడర్‌ను లేదా g.co/pixel/fingerprintunlockను సందర్శించండి</string>
+    <string name="fingerprint_recalibrate_notification_content">రిపెయిర్ ప్రొవైడర్‌ను లేదా g.co/pixel/fingerprintunlockను సందర్శించండి</string>
+</resources>

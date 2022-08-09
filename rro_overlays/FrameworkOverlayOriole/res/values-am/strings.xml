@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">የጣት አሻራ ዳሳሽን መጠቀም አይቻልም። የጥገና አገልግሎት ሰጪን ወይም g.co/pixel/fingerprintunlock ይጎብኙ</string>
+    <string name="fingerprint_recalibrate_notification_content">የጥገና አገልግሎት ሰጪን ወይም g.co/pixel/fingerprintunlock ይጎብኙ</string>
+</resources>

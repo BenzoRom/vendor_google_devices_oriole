@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Chuyển ngón tay. Hãy thử lại.</item>
+        <item>Ngón tay này đã đăng ký, hãy dùng một ngón khác.</item>
+        <item>Chất lượng ảnh kém. Hãy thử lại.</item>
+        <item></item>
+        <item>Chất lượng ảnh kém. Hãy thử lại.</item>
+        <item></item>
+        <item></item>
+        <item>Phát hiện thấy vết bẩn, vệ sinh màn hình. Hãy thử lại.</item>
+        <item>Không đọc được hình ảnh. Hãy thử lại.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Dữ liệu bị lỗi. Hãy thử lại.</item>
+        <item>Không đăng ký được ngón tay. Hãy thử lại.</item>
+    </string-array>
+</resources>

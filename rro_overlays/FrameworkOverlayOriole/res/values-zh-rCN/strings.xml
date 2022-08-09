@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">无法使用指纹传感器。请联系维修服务提供商或访问 g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">请联系维修服务提供商或访问 g.co/pixel/fingerprintunlock</string>
+</resources>

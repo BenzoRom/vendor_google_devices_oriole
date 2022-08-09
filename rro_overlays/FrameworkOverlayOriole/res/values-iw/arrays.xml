@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>עליך להזיז את האצבע. יש לנסות שוב.</item>
+        <item>טביעת האצבע כבר רשומה, יש להשתמש באצבע אחרת.</item>
+        <item>איכות התמונה נמוכה. יש לנסות שוב.</item>
+        <item></item>
+        <item>איכות התמונה נמוכה. יש לנסות שוב.</item>
+        <item></item>
+        <item></item>
+        <item>זוהה כתם, צריך לנקות את המסך. יש לנסות שוב.</item>
+        <item>קריאת התמונה נכשלה. יש לנסות שוב.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>הנתונים לא תקינים. יש לנסות שוב.</item>
+        <item>רישום טביעת האצבע נכשל. יש לנסות שוב.</item>
+    </string-array>
+</resources>

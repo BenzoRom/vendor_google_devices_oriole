@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.android.systemui.overlay.oriole">
+
+    <overlay
+        android:targetPackage="com.android.systemui"
+        android:priority="1"
+        android:isStatic="true"/>
+
+    <application android:hasCode="false"/>
+</manifest>

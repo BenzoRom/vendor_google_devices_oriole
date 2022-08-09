@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Хуруугаа хөдөлгөнө үү. Дахин оролдоно уу.</item>
+        <item>Хурууг аль хэдийн бүртгүүлсэн. Өөр хуруу ашиглана уу.</item>
+        <item>Зургийн чанар муу байна. Дахин оролдоно уу.</item>
+        <item></item>
+        <item>Зургийн чанар муу байна. Дахин оролдоно уу.</item>
+        <item></item>
+        <item></item>
+        <item>Бохирдол илэрлээ. Дэлгэцийг цэвэрлэнэ үү. Дахин оролдоно уу.</item>
+        <item>Зургийг уншиж чадсангүй. Дахин оролдоно уу.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Өгөгдөл муу байна. Дахин оролдоно уу.</item>
+        <item>Хурууг бүртгүүлж чадсангүй. Дахин оролдоно уу.</item>
+    </string-array>
+</resources>

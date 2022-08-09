@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Gerakkan jari anda. Cuba lagi.</item>
+        <item>Jari sudah didaftarkan, gunakan jari yang lain.</item>
+        <item>Kualiti imej rendah. Cuba lagi.</item>
+        <item></item>
+        <item>Kualiti imej rendah. Cuba lagi.</item>
+        <item></item>
+        <item></item>
+        <item>Comot dikesan, bersihkan skrin. Cuba lagi.</item>
+        <item>Gagal membaca imej. Cuba lagi.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Data salah. Cuba lagi.</item>
+        <item>Gagal mendaftarkan jari. Cuba lagi.</item>
+    </string-array>
+</resources>

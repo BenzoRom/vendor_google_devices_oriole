@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.android.settings.overlay.pixel2021">
+
+    <overlay
+        android:targetPackage="com.android.settings"
+        android:priority="10"
+        android:isStatic="true"
+        android:resourcesMap="@xml/overlays"/>
+
+    <application android:hasCode="false"/>
+</manifest>

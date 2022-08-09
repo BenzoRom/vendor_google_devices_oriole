@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Манжаңызды жылдырыңыз. Кайталап көрүңүз.</item>
+        <item>Бул манжаңыз катталган. Башка манжаңызды колдонуңуз.</item>
+        <item>Сүрөттүн сапаты начар. Кайталап көрүңүз.</item>
+        <item></item>
+        <item>Сүрөттүн сапаты начар. Кайталап көрүңүз.</item>
+        <item></item>
+        <item></item>
+        <item>Так табылды, экранды тазалаңыз. Кайталап көрүңүз.</item>
+        <item>Сүрөт окулган жок. Кайталап көрүңүз.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Маалымат туура эмес. Кайталап көрүңүз.</item>
+        <item>Манжа катталган жок. Кайталап көрүңүз.</item>
+    </string-array>
+</resources>

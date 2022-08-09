@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Flytt fingeren. Prøv på nytt.</item>
+        <item>Fingeren er allerede registrert. Bruk en annen finger.</item>
+        <item>Dårlig bildekvalitet. Prøv på nytt.</item>
+        <item></item>
+        <item>Dårlig bildekvalitet. Prøv på nytt.</item>
+        <item></item>
+        <item></item>
+        <item>En flekk er registrert. Rengjør skjermen. Prøv på nytt.</item>
+        <item>Kunne ikke lese bildet. Prøv på nytt.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Ugyldige data. Prøv på nytt.</item>
+        <item>Kunne ikke registrere fingeren. Prøv på nytt.</item>
+    </string-array>
+</resources>

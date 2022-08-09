@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">ફિંગરપ્રિન્ટ સેન્સરનો ઉપયોગ કરી શકાતો નથી. રિપેર કરવાની સેવાના પ્રદાતાની અથવા g.co/pixel/fingerprintunlockની મુલાકાત લો</string>
+    <string name="fingerprint_recalibrate_notification_content">રિપેર કરવાની સેવાના પ્રદાતાની અથવા g.co/pixel/fingerprintunlockની મુલાકાત લો</string>
+</resources>

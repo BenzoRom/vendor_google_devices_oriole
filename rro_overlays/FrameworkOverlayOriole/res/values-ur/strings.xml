@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">‏فنگر پرنٹ سینسر کا استعمال نہیں کر سکتے۔ ایک مرمت فراہم کنندہ یا g.co/pixel/fingerprintunlock کو ملاحظہ کریں</string>
+    <string name="fingerprint_recalibrate_notification_content">‏ایک مرمت فراہم کنندہ یا g.co/pixel/fingerprintunlock کو ملاحظہ کریں</string>
+</resources>

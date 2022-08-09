@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "CaptivePortalLoginOverlay",
+    theme: "CaptivePortalLoginOverlay",
+    product_specific: true,
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">വിരലടയാള സെൻസർ ഉപയോഗിക്കാനാകില്ല. റിപ്പയർ കേന്ദ്രമോ g.co/pixel/fingerprintunlock എന്നതോ സന്ദർശിക്കുക</string>
+    <string name="fingerprint_recalibrate_notification_content">റിപ്പയർ കേന്ദ്രമോ g.co/pixel/fingerprintunlock എന്നതോ സന്ദർശിക്കുക</string>
+</resources>

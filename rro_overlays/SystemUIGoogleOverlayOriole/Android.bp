@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "SystemUIGoogleOverlayOriole",
+    product_specific: true,
+}

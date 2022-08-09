@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.google.android.overlay.udfpsoverlay">
+
+    <overlay
+        android:targetPackage="com.android.settings"
+        android:priority="10"
+        android:isStatic="true"/>
+
+    <application android:label="UdfpsOverlay" android:hasCode="false"/>
+</manifest>

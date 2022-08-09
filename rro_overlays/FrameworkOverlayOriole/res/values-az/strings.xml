@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Barmaq izi sensorundan istifadə etmək mümkün deyil. Təmir provayderini və ya g.co/pixel/fingerprintunlock ünvanını ziyarət edin</string>
+    <string name="fingerprint_recalibrate_notification_content">Təmir provayderini və ya g.co/pixel/fingerprintunlock ünvanını ziyarət edin</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">ফিংগাৰপ্ৰিণ্ট ছেন্সৰ ব্যৱহাৰ কৰিব নোৱাৰি। মেৰামতি সেৱা প্ৰদানকাৰী কোনো প্ৰতিষ্ঠান অথবা g.co/pixel/fingerprintunlockলৈ যাওক</string>
+    <string name="fingerprint_recalibrate_notification_content">মেৰামতি সেৱা প্ৰদানকাৰী কোনো প্ৰতিষ্ঠান অথবা g.co/pixel/fingerprintunlockলৈ যাওক</string>
+</resources>
