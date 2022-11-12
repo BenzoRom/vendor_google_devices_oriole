@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "PixelTetheringOverlay2021",
+    sdk_version: "current",
+}

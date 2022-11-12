@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.android.bips.oriole">
+
+    <overlay android:targetPackage="com.android.bips"
+             android:priority="1"
+             android:isStatic="true"/>
+    <application android:hasCode="false"/>
+</manifest>

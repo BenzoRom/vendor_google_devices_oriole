@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Parmağınızı hareket ettirin. Tekrar deneyin.</item>
+        <item>Bu parmak zaten kaydedildi, başka bir parmak deneyin.</item>
+        <item>Düşük resim kalitesi. Tekrar deneyin.</item>
+        <item></item>
+        <item>Düşük resim kalitesi. Tekrar deneyin.</item>
+        <item></item>
+        <item></item>
+        <item>Leke algılandı, ekranı temizleyin. Tekrar deneyin.</item>
+        <item>Resim okunamadı. Tekrar deneyin.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Kötü veri. Tekrar deneyin.</item>
+        <item>Parmak kaydedilemedi. Tekrar deneyin.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 Benzo Rom
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<permissions>
+
+    <privapp-permissions package="com.google.android.carriersetup">
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.CHANGE_NETWORK_STATE"/>
+        <permission name="android.permission.CONNECTIVITY_USE_RESTRICTED_NETWORKS"/>
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.MANAGE_NETWORK_POLICY"/>
+        <permission name="android.permission.MODIFY_PHONE_STATE"/>
+        <permission name="android.permission.POST_NOTIFICATIONS"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="com.google.android.apps.carrier.log.permission.SEND_LOGS"/>
+        <permission name="com.google.android.setupdesign.lottieloadinglayout.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+        <permission name="com.google.android.setupwizard.SETUP_COMPAT_SERVICE"/>
+        <permission name="com.verizon.mips.services.RECEIVE_SUW_CARRIER_SCREENS_UPDATE"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.google.android.connectivitythermalpowermanager">
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.ACCESS_SURFACE_FLINGER"/>
+        <permission name="android.permission.ACCESS_WIFI_STATE"/>
+        <permission name="android.permission.DEVICE_POWER"/>
+        <permission name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+        <permission name="android.permission.MODIFY_PHONE_STATE"/>
+        <permission name="android.permission.READ_DEVICE_CONFIG"/>
+        <permission name="android.permission.READ_NETWORK_USAGE_HISTORY"/>
+        <permission name="android.permission.READ_PRECISE_PHONE_STATE"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.REGISTER_STATS_PULL_ATOM"/>
+        <permission name="com.google.android.permission.USE_GRIL"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.google.euiccpixel">
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.MODIFY_PHONE_STATE"/>
+        <permission name="android.permission.NFC_SET_CONTROLLER_ALWAYS_ON"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.REBOOT"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+        <permission name="android.permission.SECURE_ELEMENT_PRIVILEGED_OPERATION"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="com.google.android.c2dm.permission.RECEIVE"/>
+        <permission name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+        <permission name="com.google.euiccpixel.permission.SECURE_ELEMENT"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.google.android.grilservice">
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.android.hbmsvmanager">
+        <permission name="android.permission.CAMERA_OPEN_CLOSE_LISTENER"/>
+        <permission name="android.permission.CONTROL_DISPLAY_BRIGHTNESS"/>
+        <permission name="android.permission.CREATE_USERS"/>
+        <permission name="android.permission.DEVICE_POWER"/>
+        <permission name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+        <permission name="android.permission.INTERNAL_SYSTEM_WINDOW"/>
+        <permission name="android.permission.MANAGE_USERS"/>
+        <permission name="android.permission.READ_DEVICE_CONFIG"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+        <permission name="android.permission.STATUS_BAR_SERVICE"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.verizon.llkagent">
+        <permission name="android.permission.CLEAR_APP_USER_DATA"/>
+        <permission name="android.permission.GET_ACCOUNTS_PRIVILEGED"/>
+        <permission name="android.permission.MANAGE_USERS"/>
+        <permission name="com.google.android.apps.nexuslauncher.permission.READ_SETTINGS"/>
+        <permission name="com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS"/>
+        <permission name="com.verizon.permission.STORE_DEMO_MODE"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.verizon.mips.services">
+        <permission name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+        <permission name="android.permission.ACCESS_BLUETOOTH_SHARE"/>
+        <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+        <permission name="android.permission.ACCESS_FINE_LOCATION"/>
+        <permission name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.ACCESS_WIFI_STATE"/>
+        <permission name="android.permission.BATTERY_STATS"/>
+        <permission name="android.permission.BLUETOOTH"/>
+        <permission name="android.permission.BLUETOOTH_ADMIN"/>
+        <permission name="android.permission.CALL_PHONE"/>
+        <permission name="android.permission.CAMERA"/>
+        <permission name="android.permission.CHANGE_NETWORK_STATE"/>
+        <permission name="android.permission.CHANGE_WIFI_STATE"/>
+        <permission name="android.permission.CONNECTIVITY_INTERNAL"/>
+        <permission name="android.permission.CONNECTIVITY_USE_RESTRICTED_NETWORKS"/>
+        <permission name="android.permission.DELETE_PACKAGES"/>
+        <permission name="android.permission.FLAG_ACTIVITY_NEW_TASK"/>
+        <permission name="android.permission.FOREGROUND_SERVICE"/>
+        <permission name="android.permission.GET_PACKAGE_SIZE"/>
+        <permission name="android.permission.GET_TASKS"/>
+        <permission name="android.permission.GET_TOP_ACTIVITY_INFO"/>
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.KILL_BACKGROUND_PROCESSES"/>
+        <permission name="android.permission.MANAGE_SUBSCRIPTION_PLANS"/>
+        <permission name="android.permission.MANAGE_USERS"/>
+        <permission name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+        <permission name="android.permission.MODIFY_PHONE_STATE"/>
+        <permission name="android.permission.NFC"/>
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+        <permission name="android.permission.PROCESS_OUTGOING_CALLS"/>
+        <permission name="android.permission.QUERY_ALL_PACKAGES"/>
+        <permission name="android.permission.READ_CONTACTS"/>
+        <permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.READ_NETWORK_USAGE_HISTORY"/>
+        <permission name="android.permission.READ_PHONE_STATE"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.REAL_GET_TASKS"/>
+        <permission name="android.permission.REBOOT"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+        <permission name="android.permission.RECEIVE_SMS"/>
+        <permission name="android.permission.RECORD_AUDIO"/>
+        <permission name="android.permission.SEND_SMS"/>
+        <permission name="android.permission.SET_TIME"/>
+        <permission name="android.permission.SYSTEM_ALERT_WINDOW"/>
+        <permission name="android.permission.USE_BIOMETRIC"/>
+        <permission name="android.permission.USE_FINGERPRINT"/>
+        <permission name="android.permission.USE_FULL_SCREEN_INTENT"/>
+        <permission name="android.permission.VIBRATE"/>
+        <permission name="android.permission.WAKE_LOCK"/>
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.WRITE_SETTINGS"/>
+        <permission name="com.google.android.c2dm.permission.RECEIVE"/>
+        <permission name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+        <permission name="com.google.android.gms.permission.AD_ID"/>
+        <permission name="com.qualcomm.qti.permission.REMOTE_SIMLOCK"/>
+        <permission name="com.samsung.android.launcher.permission.READ_SETTINGS"/>
+        <permission name="com.samsung.android.launcher.permission.WRITE_SETTINGS"/>
+        <permission name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"/>
+        <permission name="com.verizon.api.ACCESS"/>
+        <permission name="com.verizon.mips.ACCESS_VERIZON_SERVICE"/>
+        <permission name="com.verizon.mips.adpt.ACCESS_REMOTE"/>
+        <permission name="com.verizon.mips.services.DHC_FROM_MVDACTIVE"/>
+        <permission name="com.verizon.mips.services.download_status_permission"/>
+        <permission name="com.verizon.mips.services.install_status_permission"/>
+        <permission name="com.verizon.mips.services.RECEIVE_SUW_CARRIER_SCREENS_UPDATE"/>
+        <permission name="com.verizon.mips.services.sku_launch"/>
+        <permission name="com.verizon.mips.services.SUW_ACTIVATION_SCREEN_STATUS"/>
+        <permission name="com.verizon.net.IMS_REGISTRATION"/>
+        <permission name="com.verizon.permission.ACCESS_REMOTE_SIMLOCK"/>
+        <permission name="com.verizon.services.eps.EPS_SWITCH_ENV"/>
+        <permission name="com.verizon.settings.permission.RECEIVE_UPDATED_SETTING"/>
+        <permission name="com.verizon.svcs.fdo.FA_SWITCH_ENV"/>
+        <permission name="com.verizon.vzwavs.mvs.permission.WRITE"/>
+        <permission name="com.verizon.vzwavs.permission.READ"/>
+        <permission name="com.verizon.vzwavs.permission.WRITE"/>
+        <permission name="com.vzw.APNPERMISSION"/>
+        <permission name="com.vzw.permission.ALLOW_VOLTE_PERMISSION"/>
+        <permission name="com.vzw.services.lc.SWITCH_ENV"/>
+        <permission name="org.fidoalliance.uaf.permissions.FIDO_CLIENT"/>
+        <permission name="receiver.permission.ACCESS_RECEIVER"/>
+        <permission name="service.permission.ACCESS_SERVICE"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.samsung.slsi.telephony.oemril">
+        <permission name="android.permission.MODIFY_PHONE_STATE"/>
+        <permission name="android.permission.READ_PHONE_STATE"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.REBOOT"/>
+        <permission name="com.google.android.connectivitymonitor.permission.NOTIFY_PROCESS_CRASHED"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.google.RilConfigService">
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+        <permission name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.shannon.imsservice">
+        <permission name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+        <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+        <permission name="android.permission.ACCESS_FINE_LOCATION"/>
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.ACCESS_WIFI_STATE"/>
+        <permission name="android.permission.BIND_IMS_SERVICE"/>
+        <permission name="android.permission.BROADCAST_STICKY"/>
+        <permission name="android.permission.CAMERA"/>
+        <permission name="android.permission.CHANGE_NETWORK_STATE"/>
+        <permission name="android.permission.CONNECTIVITY_INTERNAL"/>
+        <permission name="android.permission.CONNECTIVITY_USE_RESTRICTED_NETWORKS"/>
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.LOCAL_MAC_ADDRESS"/>
+        <permission name="android.permission.LOCATION_BYPASS"/>
+        <permission name="android.permission.MODIFY_PHONE_STATE"/>
+        <permission name="android.permission.READ_PRECISE_PHONE_STATE"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.SYSTEM_ALERT_WINDOW"/>
+        <permission name="android.permission.WAKE_LOCK"/>
+        <permission name="android.permission.WRITE_APN_SETTINGS"/>
+        <permission name="androidx.appcompat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+        <permission name="androidx.core.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+        <permission name="com.shannon.permission.NETWORK_SELECTION"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.shannon.qualifiednetworksservice">
+        <permission name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+        <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+        <permission name="android.permission.ACCESS_FINE_LOCATION"/>
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.ACCESS_WIFI_STATE"/>
+        <permission name="android.permission.CHANGE_NETWORK_STATE"/>
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.MODIFY_PHONE_STATE"/>
+        <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+        <permission name="android.permission.NETWORK_SIGNAL_STRENGTH_WAKEUP"/>
+        <permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.READ_PHONE_STATE"/>
+        <permission name="android.permission.READ_PRECISE_PHONE_STATE"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.SYSTEM_ALERT_WINDOW"/>
+        <permission name="com.shannon.permission.IWLAN_CONFIGURATION"/>
+        <permission name="com.shannon.qualifiednetworksservice.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.shannon.rcsservice">
+        <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+        <permission name="android.permission.ACCESS_FINE_LOCATION"/>
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.BROADCAST_STICKY"/>
+        <permission name="android.permission.CAMERA"/>
+        <permission name="android.permission.CHANGE_NETWORK_STATE"/>
+        <permission name="android.permission.CONNECTIVITY_INTERNAL"/>
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.MODIFY_PHONE_STATE"/>
+        <permission name="android.permission.NETWORK_SIGNAL_STRENGTH_WAKEUP"/>
+        <permission name="android.permission.READ_PRECISE_PHONE_STATE"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+        <permission name="android.permission.SCHEDULE_EXACT_ALARM"/>
+        <permission name="android.permission.SYSTEM_ALERT_WINDOW"/>
+        <permission name="android.permission.WRITE_APN_SETTINGS"/>
+        <permission name="android.permission.WRITE_CONTACTS"/>
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.WRITE_SETTINGS"/>
+        <permission name="com.shannon.rcsservice.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.google.android.turboadapter">
+        <permission name="android.permission.BATTERY_STATS"/>
+        <permission name="android.permission.DUMP"/>
+        <permission name="android.permission.READ_DEVICE_CONFIG"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.google.android.uvexposurereporter">
+        <permission name="android.permission.ACCESS_CONTEXT_HUB"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    </privapp-permissions>
+
+</permissions>

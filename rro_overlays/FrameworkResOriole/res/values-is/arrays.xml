@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Færðu fingurinn. Reyndu aftur.</item>
+        <item>Fingur er þegar skráður. Notaðu annan fingur.</item>
+        <item>Lítil myndgæði. Reyndu aftur.</item>
+        <item></item>
+        <item>Lítil myndgæði. Reyndu aftur.</item>
+        <item></item>
+        <item></item>
+        <item>Óhreinindi greindust, hreinsaðu skjáinn. Reyndu aftur.</item>
+        <item>Ekki tókst að lesa mynd. Reyndu aftur.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Léleg gögn. Reyndu aftur.</item>
+        <item>Ekki tókst að skrá fingur. Reyndu aftur.</item>
+    </string-array>
+</resources>

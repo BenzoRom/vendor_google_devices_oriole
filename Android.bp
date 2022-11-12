@@ -1,0 +1,925 @@
+// Copyright (C) 2022 Benzo Rom
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//      http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+android_app_import {
+    name: "PixelCameraServicesOriole",
+    apk: "product/app/PixelCameraServicesOriole/PixelCameraServicesOriole.apk",
+    certificate: "platform",
+    optional_uses_libs: [
+        "com.google.android.camera.extensions",
+    ],
+    product_specific: true,
+}
+
+android_app_import {
+    name: "SSRestartDetector",
+    apk: "product/app/SSRestartDetector/SSRestartDetector.apk",
+    certificate: "platform",
+    product_specific: true,
+}
+
+android_app_import {
+    name: "Tycho",
+    apk: "product/app/Tycho/Tycho.apk",
+    presigned: true,
+    optional_uses_libs: [
+        "org.apache.http.legacy",
+        "androidx.window.extensions",
+        "androidx.window.sidecar",
+    ],
+    product_specific: true,
+}
+
+android_app_import {
+    name: "VZWAPNLib",
+    apk: "product/app/VZWAPNLib/VZWAPNLib.apk",
+    presigned: true,
+    product_specific: true,
+}
+
+android_app_import {
+    name: "AmbientStreaming",
+    apk: "product/priv-app/AmbientStreaming/AmbientStreaming.apk",
+    presigned: true,
+    privileged: true,
+    product_specific: true,
+}
+
+android_app_import {
+    name: "AppDirectedSMSService",
+    apk: "product/priv-app/AppDirectedSMSService/AppDirectedSMSService.apk",
+    presigned: true,
+    privileged: true,
+    product_specific: true,
+}
+
+android_app_import {
+    name: "CarrierLocation",
+    apk: "product/priv-app/CarrierLocation/CarrierLocation.apk",
+    presigned: true,
+    privileged: true,
+    product_specific: true,
+}
+
+android_app_import {
+    name: "CarrierServices",
+    apk: "product/priv-app/CarrierServices/CarrierServices.apk",
+    overrides: ["CarrierConfig"],
+    presigned: true,
+    privileged: true,
+    optional_uses_libs: [
+        "org.apache.http.legacy",
+        "androidx.window.extensions",
+        "androidx.window.sidecar",
+    ],
+    product_specific: true,
+}
+
+android_app_import {
+    name: "CarrierSettings",
+    apk: "product/priv-app/CarrierSettings/CarrierSettings.apk",
+    presigned: true,
+    privileged: true,
+    product_specific: true,
+}
+
+android_app_import {
+    name: "CarrierWifi",
+    apk: "product/priv-app/CarrierWifi/CarrierWifi.apk",
+    presigned: true,
+    privileged: true,
+    product_specific: true,
+}
+
+android_app_import {
+    name: "CbrsNetworkMonitor",
+    apk: "product/priv-app/CbrsNetworkMonitor/CbrsNetworkMonitor.apk",
+    certificate: "platform",
+    privileged: true,
+    product_specific: true,
+}
+
+android_app_import {
+    name: "ConnMO",
+    apk: "product/priv-app/ConnMO/ConnMO.apk",
+    certificate: "platform",
+    privileged: true,
+    optional_uses_libs: [
+        "com.android.omadm.radioconfig",
+    ],
+    product_specific: true,
+}
+
+android_app_import {
+    name: "DCMO",
+    apk: "product/priv-app/DCMO/DCMO.apk",
+    certificate: "platform",
+    privileged: true,
+    optional_uses_libs: [
+        "com.android.omadm.radioconfig",
+    ],
+    product_specific: true,
+}
+
+android_app_import {
+    name: "DiagMon",
+    apk: "product/priv-app/DiagMon/DiagMon.apk",
+    certificate: "platform",
+    privileged: true,
+    product_specific: true,
+}
+
+android_app_import {
+    name: "DMService",
+    apk: "product/priv-app/DMService/DMService.apk",
+    required: [
+        "libdmengine",
+        "libdmjavaplugin",
+    ],
+    certificate: "platform",
+    privileged: true,
+    product_specific: true,
+}
+
+android_app_import {
+    name: "DreamlinerPrebuilt",
+    apk: "product/priv-app/DreamlinerPrebuilt/DreamlinerPrebuilt.apk",
+    presigned: true,
+    privileged: true,
+    optional_uses_libs: [
+        "androidx.window.extensions",
+        "androidx.window.sidecar",
+    ],
+    product_specific: true,
+}
+
+android_app_import {
+    name: "DreamlinerUpdater",
+    apk: "product/priv-app/DreamlinerUpdater/DreamlinerUpdater.apk",
+    presigned: true,
+    privileged: true,
+    product_specific: true,
+}
+
+android_app_import {
+    name: "EuiccGoogle",
+    apk: "product/priv-app/EuiccGoogle/EuiccGoogle.apk",
+    presigned: true,
+    privileged: true,
+    product_specific: true,
+}
+
+android_app_import {
+    name: "GCS",
+    apk: "product/priv-app/GCS/GCS.apk",
+    presigned: true,
+    privileged: true,
+    product_specific: true,
+}
+
+android_app_import {
+    name: "HardwareInfo",
+    apk: "product/priv-app/HardwareInfo/HardwareInfo.apk",
+    presigned: true,
+    privileged: true,
+    uses_libs: [
+        "com.google.android.hardwareinfo",
+        "org.apache.http.legacy",
+    ],
+    product_specific: true,
+}
+
+android_app_import {
+    name: "HotwordEnrollmentOKGoogleFUSION",
+    apk: "product/priv-app/HotwordEnrollmentOKGoogleFUSION/HotwordEnrollmentOKGoogleFUSION.apk",
+    presigned: true,
+    privileged: true,
+    uses_libs: [
+        "com.android.hotwordenrollment.common.util",
+    ],
+    product_specific: true,
+}
+
+android_app_import {
+    name: "HotwordEnrollmentXGoogleFUSION",
+    apk: "product/priv-app/HotwordEnrollmentXGoogleFUSION/HotwordEnrollmentXGoogleFUSION.apk",
+    presigned: true,
+    privileged: true,
+    uses_libs: [
+        "com.android.hotwordenrollment.common.util",
+    ],
+    product_specific: true,
+}
+
+android_app_import {
+    name: "OemDmTrigger",
+    apk: "product/priv-app/OemDmTrigger/OemDmTrigger.apk",
+    certificate: "platform",
+    privileged: true,
+    optional_uses_libs: [
+        "com.android.omadm.radioconfig",
+    ],
+    product_specific: true,
+}
+
+android_app_import {
+    name: "SCONE",
+    apk: "product/priv-app/SCONE/SCONE.apk",
+    presigned: true,
+    privileged: true,
+    optional_uses_libs: [
+        "org.apache.http.legacy",
+    ],
+    product_specific: true,
+}
+
+android_app_import {
+    name: "TetheringEntitlement",
+    apk: "product/priv-app/TetheringEntitlement/TetheringEntitlement.apk",
+    certificate: "platform",
+    privileged: true,
+    product_specific: true,
+}
+
+android_app_import {
+    name: "WfcActivation",
+    apk: "product/priv-app/WfcActivation/WfcActivation.apk",
+    presigned: true,
+    privileged: true,
+    optional_uses_libs: [
+        "com.android.omadm.radioconfig",
+    ],
+    product_specific: true,
+}
+
+android_app_import {
+    name: "Flipendo",
+    apk: "system_ext/app/Flipendo/Flipendo.apk",
+    certificate: "platform",
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "OemRilHookService",
+    apk: "system_ext/app/OemRilHookService/OemRilHookService.apk",
+    certificate: "platform",
+    uses_libs: [
+        "oemrilhook",
+    ],
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "CarrierSetup",
+    apk: "system_ext/priv-app/CarrierSetup/CarrierSetup.apk",
+    certificate: "platform",
+    privileged: true,
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "ConnectivityThermalPowerManager",
+    apk: "system_ext/priv-app/ConnectivityThermalPowerManager/ConnectivityThermalPowerManager.apk",
+    certificate: "platform",
+    privileged: true,
+    optional_uses_libs: [
+        "google-ril",
+    ],
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "EuiccSupportPixel",
+    apk: "system_ext/priv-app/EuiccSupportPixel/EuiccSupportPixel.apk",
+    required: ["EuiccSupportPixelOverlay"],
+    presigned: true,
+    privileged: true,
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "EuiccSupportPixelPermissions",
+    apk: "system_ext/priv-app/EuiccSupportPixelPermissions/EuiccSupportPixelPermissions.apk",
+    presigned: true,
+    privileged: true,
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "grilservice",
+    apk: "system_ext/priv-app/grilservice/grilservice.apk",
+    presigned: true,
+    privileged: true,
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "HbmSVManager",
+    apk: "system_ext/priv-app/HbmSVManager/HbmSVManager.apk",
+    required: ["libhbmsvmanager_jni"],
+    certificate: "platform",
+    privileged: true,
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "LLKAgent",
+    apk: "system_ext/priv-app/LLKAgent/LLKAgent.apk",
+    certificate: "platform",
+    privileged: true,
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "MyVerizonServices",
+    apk: "system_ext/priv-app/MyVerizonServices/MyVerizonServices.apk",
+    presigned: true,
+    privileged: true,
+    enforce_uses_libs: false,
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "OemRilService",
+    apk: "system_ext/priv-app/OemRilService/OemRilService.apk",
+    presigned: true,
+    privileged: true,
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "RilConfigService",
+    apk: "system_ext/priv-app/RilConfigService/RilConfigService.apk",
+    certificate: "platform",
+    privileged: true,
+    enforce_uses_libs: false,
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "ShannonIms",
+    apk: "system_ext/priv-app/ShannonIms/ShannonIms.apk",
+    presigned: true,
+    privileged: true,
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "ShannonQualifiedNetworksService",
+    apk: "system_ext/priv-app/ShannonQualifiedNetworksService/ShannonQualifiedNetworksService.apk",
+    presigned: true,
+    privileged: true,
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "ShannonRcs",
+    apk: "system_ext/priv-app/ShannonRcs/ShannonRcs.apk",
+    presigned: true,
+    privileged: true,
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "TurboAdapter",
+    apk: "system_ext/priv-app/TurboAdapter/TurboAdapter.apk",
+    required: [
+        "libhbmsvmanager_jni",
+        "libpowerstatshaldataprovider",
+    ],
+    certificate: "platform",
+    privileged: true,
+    system_ext_specific: true,
+}
+
+android_app_import {
+    name: "UvExposureReporter",
+    apk: "system_ext/priv-app/UvExposureReporter/UvExposureReporter.apk",
+    certificate: "platform",
+    privileged: true,
+    system_ext_specific: true,
+}
+
+java_import {
+    name: "com.google.android.dialer.support",
+    installable: true,
+    jars: ["product/framework/com.google.android.dialer.support.jar"],
+    compile_dex: true,
+    product_specific: true,
+}
+
+java_import {
+    name: "com.google.android.hardwareinfo",
+    installable: true,
+    jars: ["product/framework/libhwinfo.jar"],
+    stem: "libhwinfo",
+    compile_dex: true,
+    product_specific: true,
+}
+
+java_import {
+    name: "com.android.hotwordenrollment.common.util",
+    installable: true,
+    jars: ["system_ext/framework/com.android.hotwordenrollment.common.util.jar"],
+    compile_dex: true,
+    system_ext_specific: true,
+}
+
+java_import {
+    name: "com.android.omadm.radioconfig",
+    installable: true,
+    jars: ["system_ext/framework/RadioConfigLib.jar"],
+    stem: "RadioConfigLib",
+    compile_dex: true,
+    system_ext_specific: true,
+}
+
+java_import {
+    name: "com.google.android.camera.extensions",
+    installable: true,
+    jars: ["system_ext/framework/com.google.android.camera.extensions.jar"],
+    compile_dex: true,
+    system_ext_specific: true,
+}
+
+java_import {
+    name: "com.google.android.camera.experimental2021",
+    installable: true,
+    jars: ["vendor/framework/com.google.android.camera.experimental2021.jar"],
+    compile_dex: true,
+    soc_specific: true,
+}
+
+java_import {
+    name: "google-ril",
+    installable: true,
+    jars: ["system_ext/framework/google-ril.jar"],
+    compile_dex: true,
+    system_ext_specific: true,
+}
+
+java_import {
+    name: "oemrilhook",
+    installable: true,
+    jars: ["system_ext/framework/oemrilhook.jar"],
+    compile_dex: true,
+    system_ext_specific: true,
+}
+
+prebuilt_etc {
+    name: "vendor.oriole-privapp-permissions-p",
+    src: "product/etc/permissions/vendor.oriole-privapp-permissions-p.xml",
+    relative_install_path: "permissions",
+    filename_from_src: true,
+    product_specific: true,
+}
+
+prebuilt_etc {
+    name: "vendor.oriole-privapp-permissions-se",
+    src: "system_ext/etc/permissions/vendor.oriole-privapp-permissions-se.xml",
+    relative_install_path: "permissions",
+    filename_from_src: true,
+    system_ext_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libdmengine",
+    arch: {
+        arm: {
+            srcs: ["product/lib/libdmengine.so"],
+            shared_libs: [
+                "libc++",
+                "libc",
+                "libdl",
+                "liblog",
+                "libm",
+            ],
+        },
+        arm64: {
+            srcs: ["product/lib64/libdmengine.so"],
+            shared_libs: [
+                "libc++",
+                "libc",
+                "libdl",
+                "liblog",
+                "libm",
+            ],
+        },
+    },
+    compile_multilib: "both",
+    product_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+cc_prebuilt_library_shared {
+    name: "libdmjavaplugin",
+    arch: {
+        arm: {
+            srcs: ["product/lib/libdmjavaplugin.so"],
+            shared_libs: [
+                "libc++",
+                "libc",
+                "libdl",
+                "libdmengine",
+                "liblog",
+                "libm",
+            ],
+        },
+        arm64: {
+            srcs: ["product/lib64/libdmjavaplugin.so"],
+            shared_libs: [
+                "libc++",
+                "libc",
+                "libdl",
+                "libdmengine",
+                "liblog",
+                "libm",
+            ],
+        },
+    },
+    compile_multilib: "both",
+    product_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+cc_prebuilt_library_shared {
+    name: "com.google.edgetpu_app_service-V2-ndk",
+    arch: {
+        arm64: {
+            srcs: ["system_ext/lib64/com.google.edgetpu_app_service-V2-ndk.so"],
+            shared_libs: [
+                "libbinder_ndk",
+                "libc++",
+                "libc",
+                "libdl",
+                "libm",
+            ],
+        },
+    },
+    system_ext_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+cc_prebuilt_library_shared {
+    name: "com.google.edgetpu_vendor_service-V2-ndk",
+    arch: {
+        arm64: {
+            srcs: ["system_ext/lib64/com.google.edgetpu_vendor_service-V2-ndk.so"],
+            shared_libs: [
+                "libbinder_ndk",
+                "libc++",
+                "libc",
+                "libdl",
+                "libm",
+            ],
+        },
+    },
+    system_ext_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+cc_prebuilt_library_shared {
+    name: "libaptX_encoder",
+    arch: {
+        arm64: {
+            srcs: ["system_ext/lib64/libaptX_encoder.so"],
+            shared_libs: [
+                "libc",
+                "libdl",
+            ],
+        },
+    },
+    system_ext_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+cc_prebuilt_library_shared {
+    name: "libaptXHD_encoder",
+    arch: {
+        arm64: {
+            srcs: ["system_ext/lib64/libaptXHD_encoder.so"],
+            shared_libs: [
+                "libc",
+                "libdl",
+            ],
+        },
+    },
+    system_ext_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+cc_prebuilt_library_shared {
+    name: "libhbmsvmanager_jni",
+    arch: {
+        arm64: {
+            srcs: ["system_ext/lib64/libhbmsvmanager_jni.so"],
+            shared_libs: [
+                "libandroid",
+                "libbinder_ndk",
+                "libbinder",
+                "libc++",
+                "libc",
+                "libcutils",
+                "libdl",
+                "libm",
+            ],
+        },
+    },
+    system_ext_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+cc_prebuilt_library_shared {
+    name: "libmediaadaptor",
+    arch: {
+        arm: {
+            srcs: ["system_ext/lib/libmediaadaptor.so"],
+            shared_libs: [
+                "libandroid_runtime",
+                "libbinder",
+                "libc++",
+                "libc",
+                "libdl",
+                "liblog",
+                "libmedia",
+                "libm",
+                "libnativehelper",
+                "libstagefright",
+                "libutils",
+            ],
+        },
+        arm64: {
+            srcs: ["system_ext/lib64/libmediaadaptor.so"],
+            shared_libs: [
+                "libandroid_runtime",
+                "libbinder",
+                "libc++",
+                "libc",
+                "libdl",
+                "liblog",
+                "libmedia",
+                "libm",
+                "libnativehelper",
+                "libstagefright",
+                "libutils",
+            ],
+        },
+    },
+    compile_multilib: "both",
+    system_ext_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+cc_prebuilt_library_shared {
+    name: "libpowerstatshaldataprovider",
+    arch: {
+        arm64: {
+            srcs: ["system_ext/lib64/libpowerstatshaldataprovider.so"],
+            shared_libs: [
+                "android.hardware.power.stats@1.0",
+                "android.hardware.power.stats-V1-ndk",
+                "libbinder_ndk",
+                "libc++",
+                "libc",
+                "libdl",
+                "libhidlbase",
+                "liblog",
+                "libm",
+                "libnativehelper",
+                "libprotobuf-cpp-lite",
+                "libutils",
+            ],
+        },
+    },
+    system_ext_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+cc_prebuilt_library_shared {
+    name: "vendor.samsung_slsi.telephony.hardware.oemservice@1.0",
+    arch: {
+        arm: {
+            srcs: ["system_ext/lib/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so"],
+            shared_libs: [
+                "libc++",
+                "libc",
+                "libcutils",
+                "libdl",
+                "libhidlbase",
+                "liblog",
+                "libm",
+                "libutils",
+            ],
+        },
+        arm64: {
+            srcs: ["system_ext/lib64/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so"],
+            shared_libs: [
+                "libc++",
+                "libc",
+                "libcutils",
+                "libdl",
+                "libhidlbase",
+                "liblog",
+                "libm",
+                "libutils",
+            ],
+        },
+    },
+    compile_multilib: "both",
+    system_ext_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+cc_prebuilt_library_shared {
+    name: "vendor.samsung_slsi.telephony.hardware.radioExternal@1.0",
+    arch: {
+        arm: {
+            srcs: ["system_ext/lib/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so"],
+            shared_libs: [
+                "libc++",
+                "libc",
+                "libcutils",
+                "libdl",
+                "libhidlbase",
+                "liblog",
+                "libm",
+                "libutils",
+            ],
+        },
+        arm64: {
+            srcs: ["system_ext/lib64/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so"],
+            shared_libs: [
+                "libc++",
+                "libc",
+                "libcutils",
+                "libdl",
+                "libhidlbase",
+                "liblog",
+                "libm",
+                "libutils",
+            ],
+        },
+    },
+    compile_multilib: "both",
+    system_ext_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+// ARMNN_COMPUTE_CL_ENABLE
+cc_prebuilt_library_shared {
+    name: "libGLES_mali",
+    arch: {
+        arm: {
+            srcs: ["vendor/lib/egl/libGLES_mali.so"],
+            shared_libs: [
+                "android.hardware.graphics.mapper@4.0",
+                "libbase",
+                "libc++",
+                "libc",
+                "libcutils",
+                "libdl",
+                "libdmabufheap",
+                "libdrm",
+                "libgralloctypes",
+                "libhardware",
+                "libhidlbase",
+                "liblog",
+                "libm",
+                "libnativewindow",
+                "libutils",
+                "libz",
+            ],
+        },
+        arm64: {
+            srcs: ["vendor/lib64/egl/libGLES_mali.so"],
+            shared_libs: [
+                "android.hardware.graphics.mapper@4.0",
+                "libbase",
+                "libc++",
+                "libc",
+                "libcutils",
+                "libdl",
+                "libdmabufheap",
+                "libdrm",
+                "libgralloctypes",
+                "libhardware",
+                "libhidlbase",
+                "liblog",
+                "libm",
+                "libnativewindow",
+                "libutils",
+                "libz",
+            ],
+        },
+    },
+    compile_multilib: "both",
+    relative_install_path: "egl",
+    soc_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+cc_prebuilt_library_shared {
+    name: "libOpenCL",
+    arch: {
+        arm: {
+            srcs: ["vendor/lib/libOpenCL.so"],
+            shared_libs: [
+                "libc++",
+                "libc",
+                "libdl",
+                "libGLES_mali",
+                "libm",
+            ],
+        },
+        arm64: {
+            srcs: ["vendor/lib64/libOpenCL.so"],
+            shared_libs: [
+                "libc++",
+                "libc",
+                "libdl",
+                "libGLES_mali",
+                "libm",
+            ],
+        },
+    },
+    compile_multilib: "both",
+    soc_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+cc_prebuilt_library_shared {
+    name: "vulkan.mali",
+    arch: {
+        arm: {
+            srcs: ["vendor/lib/hw/vulkan.mali.so"],
+            shared_libs: [
+                "libc++",
+                "libc",
+                "libdl",
+                "libGLES_mali",
+                "libm",
+            ],
+        },
+        arm64: {
+            srcs: ["vendor/lib64/hw/vulkan.mali.so"],
+            shared_libs: [
+                "libc++",
+                "libc",
+                "libdl",
+                "libGLES_mali",
+                "libm",
+            ],
+        },
+    },
+    compile_multilib: "both",
+    relative_install_path: "hw",
+    soc_specific: true,
+    strip: {
+        none: true,
+    },
+}
+
+// Google Camera APEX
+prebuilt_apex {
+    name: "com.google.pixel.camera.hal",
+    installable: true,
+    src: "vendor/apex/com.google.pixel.camera.hal.apex",
+    soc_specific: true,
+}

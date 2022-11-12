@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">No puede usar sensor de huellas dactilares. Visite a un proveedor de reparaciones o g.co/pixel/fingerprintunlock.</string>
+    <string name="fingerprint_recalibrate_notification_content">Consulta a un proveedor de reparaciones o ve a g.co/pixel/fingerprintunlock.</string>
+</resources>

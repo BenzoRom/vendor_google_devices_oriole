@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "CellBroadcastReceiverOverlay",
+    theme: "CellBroadcastReceiverOverlay",
+    sdk_version: "current",
+}

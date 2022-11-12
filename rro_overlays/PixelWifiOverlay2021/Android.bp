@@ -1,0 +1,6 @@
+runtime_resource_overlay {
+    name: "PixelWifiOverlay2021",
+    theme: "PixelWifiOverlay2021",
+    overrides: ["WifiOverlay"],
+    sdk_version: "current",
+}

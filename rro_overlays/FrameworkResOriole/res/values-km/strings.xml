@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">មិនអាចប្រើ​ឧបករណ៍ចាប់ស្នាមម្រាមដៃ​បានទេ។ សូមទាក់ទង​ក្រុមហ៊ុនផ្ដល់ការជួសជុល ឬចូលទៅកាន់ g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">សូមទាក់ទង​ក្រុមហ៊ុនផ្ដល់ការជួសជុល ឬចូលទៅកាន់ g.co/pixel/fingerprintunlock</string>
+</resources>

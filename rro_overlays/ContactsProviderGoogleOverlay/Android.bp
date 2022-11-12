@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "ContactsProviderGoogleOverlay",
+    sdk_version: "current",
+}

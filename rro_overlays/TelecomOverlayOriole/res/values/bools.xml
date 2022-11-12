@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="grant_location_permission_enabled">true</bool>
+    <bool name="show_option_to_block_callers_not_in_contacts">true</bool>
+    <bool name="combine_options_to_block_restricted_and_unknown_callers">false</bool>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">‏امکان استفاده از حسگر اثر انگشت وجود ندارد. به یکی از ارائه‌دهندگان خدمات تعمیر، یا g.co/pixel/fingerprintunlock مراجعه کنید</string>
+    <string name="fingerprint_recalibrate_notification_content">‏به یکی از ارائه‌دهندگان خدمات تعمیر، یا g.co/pixel/fingerprintunlock مراجعه کنید</string>
+</resources>

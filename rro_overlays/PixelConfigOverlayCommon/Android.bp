@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "PixelConfigOverlayCommon",
+    sdk_version: "current",
+}

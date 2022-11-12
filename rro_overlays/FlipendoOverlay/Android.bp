@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "FlipendoOverlay",
+    sdk_version: "current",
+}

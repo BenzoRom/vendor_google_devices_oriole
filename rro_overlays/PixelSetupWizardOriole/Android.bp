@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "PixelSetupWizardOriole",
+    sdk_version: "current",
+}

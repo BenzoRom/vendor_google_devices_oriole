@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "SettingsGoogleOverlayPixel2021",
+    sdk_version: "current",
+}

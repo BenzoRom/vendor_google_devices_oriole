@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Μετακινήστε το δάχτυλό σας. Δοκιμάστε ξανά.</item>
+        <item>Το δάχτυλο έχει εγγραφεί ήδη. Χρησιμοποιήστε διαφορετικό δάχτυλο.</item>
+        <item>Κακή ποιότητα εικόνας. Δοκιμάστε ξανά.</item>
+        <item></item>
+        <item>Κακή ποιότητα εικόνας. Δοκιμάστε ξανά.</item>
+        <item></item>
+        <item></item>
+        <item>Εντοπίστηκε μουτζούρα. Καθαρίστε την οθόνη. Δοκιμάστε ξανά.</item>
+        <item>Η ανάγνωση της εικόνας απέτυχε. Δοκιμάστε ξανά.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Ακατάλληλα δεδομένα. Δοκιμάστε ξανά.</item>
+        <item>Η εγγραφή του δαχτύλου απέτυχε. Δοκιμάστε ξανά.</item>
+    </string-array>
+</resources>

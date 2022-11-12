@@ -1,0 +1,4 @@
+[submodule "vendor/apex"]
+    path = vendor/apex
+    url = https://bitbucket.org/xanaxdroid/oriole_vendor_apex
+    branch = android13

@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "PixelConnectivityOverlay2021",
+    overrides: ["ConnectivityOverlay"],
+    sdk_version: "current",
+}

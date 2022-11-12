@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "HbmSVManagerOverlay",
+    sdk_version: "current",
+}

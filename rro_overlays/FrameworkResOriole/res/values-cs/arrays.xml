@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Posuňte prst. Zkuste to znovu.</item>
+        <item>Prst už je zaregistrován, použijte jiný.</item>
+        <item>Nízká kvalita obrázku. Zkuste to znovu.</item>
+        <item></item>
+        <item>Nízká kvalita obrázku. Zkuste to znovu.</item>
+        <item></item>
+        <item></item>
+        <item>Byla zjištěna skvrna, vyčistěte obrazovku. Zkuste to znovu.</item>
+        <item>Obrázek se nepodařilo načíst. Zkuste to znovu.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Chybná data. Zkuste to znovu.</item>
+        <item>Prst se nepodařilo zaregistrovat. Zkuste to znovu.</item>
+    </string-array>
+</resources>

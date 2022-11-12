@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Хурууны хээ мэдрэгч ашиглах боломжгүй. Засварын үйлчилгээ үзүүлэгч эсвэл g.co/pixel/fingerprintunlock дээр зочилно уу</string>
+    <string name="fingerprint_recalibrate_notification_content">Засварын үйлчилгээ үзүүлэгч эсвэл g.co/pixel/fingerprintunlock дээр зочилно уу</string>
+</resources>

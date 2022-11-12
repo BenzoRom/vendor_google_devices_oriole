@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "SettingsProviderOriole",
+    sdk_version: "current",
+}

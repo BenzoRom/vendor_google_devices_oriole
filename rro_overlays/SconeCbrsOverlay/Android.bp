@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "SconeCbrsOverlay",
+    theme: "SconeCbrsOverlay",
+    sdk_version: "current",
+}

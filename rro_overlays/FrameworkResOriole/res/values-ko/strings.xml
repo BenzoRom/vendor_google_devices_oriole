@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">지문 센서를 사용할 수 없습니다. 수리업체를 방문하거나 g.co/pixel/fingerprintunlock을 확인하세요.</string>
+    <string name="fingerprint_recalibrate_notification_content">수리업체를 방문하거나 g.co/pixel/fingerprintunlock을 확인하세요.</string>
+</resources>

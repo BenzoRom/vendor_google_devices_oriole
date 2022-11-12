@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Pomerite prst. Probajte ponovo.</item>
+        <item>Prst je već registrovan. Koristite drugi prst.</item>
+        <item>Loš kvalitet slike. Probajte ponovo.</item>
+        <item></item>
+        <item>Loš kvalitet slike. Probajte ponovo.</item>
+        <item></item>
+        <item></item>
+        <item>Otkrivena je mrlja. Očistite ekran. Probajte ponovo.</item>
+        <item>Čitanje slike nije uspelo. Probajte ponovo.</item>
+        <item></item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Neispravni podaci. Probajte ponovo.</item>
+        <item>Registracija prsta nije uspela. Probajte ponovo.</item>
+    </string-array>
+</resources>

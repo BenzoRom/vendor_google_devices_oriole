@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.google.android.flipendo.overlay"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+    <overlay android:targetPackage="com.google.android.flipendo"
+             android:priority="1"
+             android:isStatic="true"/>
+    <application android:hasCode="false"/>
+</manifest>

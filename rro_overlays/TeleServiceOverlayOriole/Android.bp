@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "TeleServiceOverlayOriole",
+    sdk_version: "current",
+}

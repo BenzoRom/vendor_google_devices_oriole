@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "GoogleConfigOverlay",
+    sdk_version: "current",
+}

@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "MediaProviderOverlay",
+    sdk_version: "current",
+}
